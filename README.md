@@ -1,4 +1,4 @@
-# world-of-games
+# World Of Games 
 DevOps Course
 
 ---
